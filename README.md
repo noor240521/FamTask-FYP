@@ -59,7 +59,7 @@ node server.js
 
 ## 👤 Author
 
-Noor ul Saba
+Noor 
 Air University, Islamabad — Associate Degree in Computer Science (ADSCS)
 
 ## 📄 License
